@@ -1,6 +1,6 @@
 ### About me
 ##
-I'm a college student currently enrolled in West University of Timișoara in Informatică Aplicată, year 2.
+I'm a college student currently enrolled in West University of Timișoara in Informatică Aplicată (Applied CompSci), year 2.
 ##
 I know how to code in:
 - C
