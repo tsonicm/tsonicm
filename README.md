@@ -1,10 +1,4 @@
 ### About me
 ##
-I'm a college student currently enrolled in West University of Timișoara in Informatică Aplicată (Applied CompSci), year 2.
+I'm a university student currently enrolled in West University of Timișoara in Informatică Aplicată (Applied CompSci), year 3.
 ##
-I know how to code in:
-- C
-- C++
-- C# (a little)
-- Java
-- Web (HTML5, CSS3 and a bit of JS)
